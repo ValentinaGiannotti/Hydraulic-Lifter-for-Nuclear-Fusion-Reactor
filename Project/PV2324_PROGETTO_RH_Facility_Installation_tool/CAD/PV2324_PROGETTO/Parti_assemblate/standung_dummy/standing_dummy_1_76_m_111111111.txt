@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-26092008-067883";"";
+"DESIGN";"Standing dummy, size 1,76 m";"";
+"STANDARD";"ISO 15536-1";"";
+"TraceParts.PartTitle";"Standing dummy - Size 1,76 m";"";
+"TraceParts.InstanceId";"10-26092008-0678834F5TUBVISGGDC0VRRR4P7O4NJ";"";
+"TraceParts.PartStandardAcronym";"ISO";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.PartVersion";"1.2.2";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"ISO:10-26092008-067883";"";
