@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-10022023-025302";"";
+"REFERENCE";"JC35EA3C";"";
+"TraceParts.PartTitle";"Lifting Column JC35EA3C";"";
+"TraceParts.InstanceId";"90-10022023-0253022N3XX9WWY2MK673V115V3T3RA";"";
+"SUPPLIER";"JIECANG";"";
+"DESIGN";"Lifting Column JC35EA3C";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.0";"";
